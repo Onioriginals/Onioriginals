@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onitha Menikpurage</h1>
-<h3 align="center">I'm a student of Mahanama College in Sri Lanka</h3>
+<h3 align="center">Passionate about learning and innovating with AI and ML</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=onioriginals&label=Profile%20views&color=0e75b6&style=flat" alt="onioriginals" /> </p>
 
